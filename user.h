@@ -1,0 +1,1 @@
+int user_get_pub_key(char *key_buf);
